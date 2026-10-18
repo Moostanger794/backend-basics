@@ -1,0 +1,6 @@
+PASS: OpenAPI 3.1, all local refs and schemas
+PASS: 14 unique operations and required endpoints
+PASS: 167 example occurrences match their schemas
+PASS: 30 invalid request/response cases rejected
+PASS: collections, error envelopes, naming, JWT, ISBN sample and readOnly
+NOTE: database rules, UTC comparisons, concurrency and replay require a server; this validates the contract only.
